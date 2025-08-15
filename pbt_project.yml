@@ -1,0 +1,58 @@
+name: tanika.nikolaus
+description: asynchronous
+version: 0.6.4.913
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tanikanikolaus
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:42:03'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:42:03'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:42:03.808487Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '88900382'
+  createdAt: '2025-08-15T20:42:03.808487Z'
+  type: plibMaven
+projectDependencies:
+  '414':
+    projectUID: 414
+    projectName: lashanda.bechtelar
+    repositoryPath: gitUri=http://gitserver:3000/dev_ueI7UGGn_team_697/dev_ueI7UGGn_project_414.git&subPath=
+    version: lashanda.bechtelar/0.93.267
+    isDefault: false
+    author: null
+    createdAt: '2025-08-15 20:42:01'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
